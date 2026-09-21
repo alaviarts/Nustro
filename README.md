@@ -2,17 +2,9 @@
 
 <img src="./assets/nustro-hero.svg" alt="Nustro — Multidimensional Human Insight, Identity and Personal Guidance" width="100%">
 
-<br/>
+<br/><br/>
 
 **A foundation for deeper self-knowledge, persistent identity understanding, and context-aware personal guidance.**
-
-<br/>
-
-<kbd>Active R&D</kbd>&nbsp;
-<kbd>Self-Knowledge</kbd>&nbsp;
-<kbd>Identity</kbd>&nbsp;
-<kbd>NDNA</kbd>&nbsp;
-<kbd>NCCM</kbd>
 
 </div>
 
