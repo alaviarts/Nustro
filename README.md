@@ -1,18 +1,18 @@
 <div align="center">
 
-# NUSTRO™
-
-### Multidimensional Human Insight, Identity & Personal Guidance
-
-**A system for turning deeper self-knowledge into persistent identity understanding and context-aware personal guidance.**
+<img src="./assets/nustro-hero.svg" alt="Nustro — Multidimensional Human Insight, Identity and Personal Guidance" width="100%">
 
 <br/>
 
+**A foundation for deeper self-knowledge, persistent identity understanding, and context-aware personal guidance.**
+
+<br/>
+
+<kbd>Active R&D</kbd>&nbsp;
 <kbd>Self-Knowledge</kbd>&nbsp;
 <kbd>Identity</kbd>&nbsp;
 <kbd>NDNA</kbd>&nbsp;
-<kbd>NCCM</kbd>&nbsp;
-<kbd>Personal Guidance</kbd>
+<kbd>NCCM</kbd>
 
 </div>
 
@@ -22,16 +22,9 @@
 
 We live through our own minds, emotions, behavioral patterns, decisions, strengths, vulnerabilities, relationships, and unrealized capacities — yet we rarely hold a coherent view of all of them at once.
 
-How do I think?  
-How do I make decisions?  
-How do my emotions shape my behavior?  
-How do other people experience me?  
-What patterns keep repeating in my life?  
-Where are my strongest capacities — and where are my blind spots?
+> **How do I think? How do I decide? What shapes my emotions and behavior? How do others experience me? What patterns keep repeating — and where are my unrealized capacities?**
 
-**Nustro was created to build a deeper, more coherent, multidimensional understanding of the individual.**
-
-Its purpose is to make that understanding usable: for self-knowledge, reflection, challenge analysis, personal decision-making, and long-term development.
+**Nustro was created to build a deeper, more coherent, multidimensional understanding of the individual** — and to make that understanding usable for reflection, challenge analysis, personal decision-making, and long-term development.
 
 <br/>
 
@@ -39,13 +32,11 @@ Its purpose is to make that understanding usable: for self-knowledge, reflection
 
 Human beings are multidimensional. Understanding them from a single perspective is inherently limited.
 
-Across history, scientific, interpretive, symbolic, traditional, and modern systems have approached different aspects of the individual from different angles.
-
-Nustro brings multiple perspectives into one system in order to form a broader, more integrated view of the person.
+Across history, scientific, interpretive, symbolic, traditional, and modern systems have approached different aspects of the individual from different angles. Nustro brings multiple perspectives into one system to form a broader, more integrated view of the person.
 
 The value is not in any single perspective by itself.
 
-**The value is in the coherent identity picture that Nustro builds around one individual.**
+**The value is in the coherent identity picture Nustro builds around one individual.**
 
 <br/>
 
@@ -71,7 +62,7 @@ A persistent identity reference designed to carry Nustro's multidimensional unde
 
 ### NCCM™
 
-An identity-anchored coaching model that uses persistent knowledge of the person together with their present reality and current challenge.
+An identity-anchored coaching model that uses persistent knowledge of the person together with present reality and the current challenge.
 
 </td>
 </tr>
@@ -81,9 +72,7 @@ An identity-anchored coaching model that uses persistent knowledge of the person
 
 # NDNA™
 
-## Nustro DNA
-
-At the center of Nustro is **NDNA**.
+### Nustro DNA
 
 NDNA is Nustro's proprietary identity reference: a persistent representation designed to carry a coherent, multidimensional understanding of an individual.
 
@@ -103,6 +92,8 @@ Structured knowledge becomes valuable when a person can actually see themselves 
 
 Nustro translates identity-level understanding into a human-readable, multidimensional reflection that can help reveal relationships between aspects of the self that are often experienced separately.
 
+<div align="center">
+
 <kbd>Identity</kbd>&nbsp;
 <kbd>Mind</kbd>&nbsp;
 <kbd>Emotion</kbd>&nbsp;
@@ -113,7 +104,9 @@ Nustro translates identity-level understanding into a human-readable, multidimen
 <kbd>Tensions</kbd>&nbsp;
 <kbd>Growth</kbd>
 
-The goal is not simply to describe a person.
+</div>
+
+<br/>
 
 **The goal is to turn knowledge about the self into usable understanding.**
 
@@ -121,23 +114,19 @@ The goal is not simply to describe a person.
 
 # NCCM™
 
-## Nustro Cosmos Coaching Model
+### Nustro Cosmos Coaching Model
 
 Self-knowledge becomes practical when it can enter real decisions, conflicts, transitions, and challenges.
 
-For this purpose, Nustro developed **NCCM — Nustro Cosmos Coaching Model**.
+Nustro developed **NCCM — Nustro Cosmos Coaching Model** as an identity-anchored coaching model built on top of Nustro's persistent understanding of the individual.
 
-NCCM is an identity-anchored coaching model built on top of Nustro's persistent understanding of the individual.
-
-This means coaching does not have to begin from a blank page or rely only on what the person happens to express in the current conversation.
-
-It can consider the present challenge in relation to a deeper, already-established understanding of the person.
+Coaching therefore does not have to begin from a blank page or rely only on what a person happens to express in the current conversation. The present challenge can be understood in relation to a deeper, already-established understanding of the person.
 
 <br/>
 
 ## Identity-Anchored, Context-Aware Coaching
 
-NCCM works across two fundamental questions:
+NCCM keeps two fundamental questions in view:
 
 > **Who is this person?**  
 > **What is happening to this person now?**
@@ -160,9 +149,11 @@ NCCM keeps persistent identity knowledge and current reality in view at the same
 | **Time** | What role does timing or the person's current phase play? |
 | **Action & Feedback** | What practical movement can turn understanding into change? |
 
-This allows similar challenges to lead to different guidance for different people.
+<div align="center">
 
 ### Identity + Reality + Challenge → Personalized Guidance
+
+</div>
 
 NCCM is designed to understand the problem before prescribing movement.
 
@@ -233,15 +224,30 @@ Turn self-knowledge into a living resource for reflection, choice, growth, and d
 
 </div>
 
-Nustro is designed to connect self-understanding with how a person navigates real life.
+Nustro connects self-understanding with how a person navigates real life.
 
 Its value is not limited to a report or a single conversation.
 
-**It is a foundation for experiences that need to understand the individual over time.**
+> **It is a foundation for experiences that need to understand the individual over time.**
 
 <br/>
 
-# Technology-Independent by Design
+## Current Status
+
+**Active Research & Development**
+
+Nustro has evolved through multiple generations of identity modeling, personal analysis, narrative synthesis, and coaching operation.
+
+Current work is focused on increasing product maturity and precision, strengthening NDNA as a persistent identity foundation, and expanding the range of experiences that can be built around long-term personal understanding.
+
+<br/>
+
+<details>
+<summary><strong>Technology, Public Scope & Interpretation</strong></summary>
+
+<br/>
+
+### Technology-Independent by Design
 
 Nustro is not defined by a specific AI model, agent architecture, programming language, or execution environment.
 
@@ -249,19 +255,13 @@ Technology may change how Nustro is implemented and experienced. The underlying 
 
 AI can be a powerful execution and interaction layer within Nustro, but it is not the definition of Nustro itself.
 
-<br/>
+### Public Scope
 
-# Current Status
+This repository presents the public product layer of Nustro: its vision, human value, NDNA at a conceptual level, NCCM, and selected product-level architecture.
 
-### Active Research & Development
+NDNA generation methods, analytical engines, exact source composition, internal structures, algorithms, mappings, processing logic, and proprietary protocols remain private.
 
-Nustro has evolved through multiple generations of identity modeling, personal analysis, narrative synthesis, and coaching operation.
-
-Current work is focused on increasing the maturity and precision of the product, strengthening NDNA as a persistent identity foundation, and expanding the range of experiences that can be built around long-term personal understanding.
-
-<br/>
-
-# Scope & Interpretation
+### Scope & Interpretation
 
 Nustro is a **personal insight and coaching system**.
 
@@ -270,6 +270,8 @@ Its knowledge sources span different traditions and modes of interpretation. Som
 Nustro is not presented as a medical, psychiatric, or clinical psychological diagnostic system.
 
 Its value is defined by how it brings multiple perspectives together into a coherent, usable experience of personal understanding and guidance.
+
+</details>
 
 <br/>
 
