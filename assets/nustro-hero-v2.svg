@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Nustro™</title>
+  <desc id="desc">Multidimensional Human Insight, Identity and Personal Guidance</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#151b23"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#5b4b8a" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#5b4b8a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#30363d"/>
+  <g opacity="0.24" stroke="#6e7681">
+    <circle cx="600" cy="142" r="84" fill="none"/>
+    <circle cx="600" cy="142" r="122" fill="none"/>
+    <path d="M440 142h320M600 22v240"/>
+  </g>
+  <circle cx="600" cy="142" r="6" fill="#f0f6fc"/>
+  <text x="600" y="92" text-anchor="middle" fill="#f0f6fc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="8">NUSTRO<tspan dx="6" dy="-23" font-size="22" font-weight="700" letter-spacing="0">™</tspan></text>
+  <text x="600" y="188" text-anchor="middle" fill="#c9d1d9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
+    Multidimensional Human Insight · Identity · Personal Guidance
+  </text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#c9d1d9">
+    <rect x="328" y="238" width="174" height="38" rx="19" fill="#161b22" stroke="#30363d"/>
+    <text x="415" y="262" text-anchor="middle">SELF-KNOWLEDGE</text>
+    <rect x="522" y="238" width="156" height="38" rx="19" fill="#161b22" stroke="#30363d"/>
+    <text x="600" y="262" text-anchor="middle">NDNA</text>
+    <rect x="698" y="238" width="174" height="38" rx="19" fill="#161b22" stroke="#30363d"/>
+    <text x="785" y="262" text-anchor="middle">NCCM</text>
+  </g>
+</svg>
