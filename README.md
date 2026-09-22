@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/nustro-hero.svg" alt="Nustro — Multidimensional Human Insight, Identity and Personal Guidance" width="100%">
+<img src="./assets/nustro-hero-v2.svg" alt="Nustro — Multidimensional Human Insight, Identity and Personal Guidance" width="100%">
 
 <br/><br/>
 
